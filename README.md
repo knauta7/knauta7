@@ -1,4 +1,5 @@
-<h1>Welcome, I'm Kenny! </h1> <h2><a href="https://www.linkedin.com/in/kennynauta/">Cybersecurity Professional</a> / <a href="www.kennynauta.com">Production Assistant</a> / <a href="https://www.youtube.com/c/knautaproductions">Video Editor</a></h2><br>
+<h1>Welcome, I'm Kenny! <a href="https://www.linkedin.com/in/kennynauta/">Cybersecurity Professional</a> / <a href="www.kennynauta.com">Production Assistant</a> / <a href="https://www.youtube.com/c/knautaproductions">Video Editor</a></h1><br><br>
+
 
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
