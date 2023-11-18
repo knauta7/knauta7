@@ -3,7 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
-  - [Security Audit](https://github.com/knauta7/security_audit)
+  - [Security Audit](https://github.com/knauta7/security_audit)<br>
+  - [Incident Report Analysis](https://github.com/knauta7/incident_report_analysis)<br>
 
 <h2>🌟 Certifications:</h2>
 
