@@ -24,18 +24,14 @@ Versatile professional with a successful background as a Field Technician, showc
 
 
 <h2> 📲 Connect with me:</h2>
+<li><a href="https://www.linkedin.com/in/kennynauta/">LinkedIn</a></li>
+<li><a href="https://www.facebook.com/kennynauta/">Facebook</a></li>
+<li><a href="https://twitter.com/kennynautajr">Twitter</a></li>
+<li><a href="https://www.youtube.com/knautaproductions">Youtube</a></li>
 
-[<img align="left" alt="KennyNauta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="KennyNauta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KennyNauta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KennyNauta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/kennynautajr
-[youtube]: https://www.youtube.com/c/knautaproductions
-[instagram]: https://www.instagram.com/kennynauta/
-[linkedin]: https://linkedin.com/in/kennynauta
 
 <!--
+Credit to this repository format goes to Joshmadakor1. Tweaked my page to fit my information and preference.
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
