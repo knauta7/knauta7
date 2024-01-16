@@ -13,7 +13,7 @@ Versatile professional with a successful background as a Field Technician, showc
 <h2>⚔️ Cybersecurity Portfolio:</h2>
 <li><a href="https://github.com/knauta7/security_audit">Security Audit</a></li>
 <li><a href="https://github.com/knauta7/incident_report_analysis">Incident Report Analysis</a></li>
-<li><a href="https://github.com/knauta7/stakeholder_memorandum">Stakeholder Memorandum</a></li>
+
 
 <h2>🌟 Certifications:</h2>
 <li><a href="https://www.credly.com/badges/4b321562-e276-4667-b772-36e9c6fbf4cf/public_url">Google Career Certificate in Cybersecurity</a></li>
