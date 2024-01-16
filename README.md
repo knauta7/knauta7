@@ -13,6 +13,8 @@ Versatile professional with a successful background as a Field Technician, showc
 <h2>⚔️ Cybersecurity Portfolio:</h2>
 <li><a href="https://github.com/knauta7/security_audit">Security Audit</a></li>
 <li><a href="https://github.com/knauta7/incident_report_analysis">Incident Report Analysis</a></li>
+<li><a href="https://github.com/knauta7/vulnerability_assessment_report">Vulnerability Assessment Report</a></li>
+
 
 
 <h2>🌟 Certifications:</h2>
