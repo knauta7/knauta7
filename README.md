@@ -1,4 +1,4 @@
-<h1>Welcome to Kenny's GitHub Page! <a href="https://www.linkedin.com/in/kennynauta/">Google Certified Cybersecurity Professional</a> / <a href="https://www.linkedin.com/in/kennynauta/">Field Technician</a> / <a href="https://www.youtube.com/c/knautaproductions">Video Editor</a></h1>
+<h1>Welcome to Kenny's GitHub Page! <a href="https://www.linkedin.com/in/kennynauta/">Google Certified Cybersecurity Professional | Field Technician | Production Assistant | Video Editor</a></h1>
 
 <h2>✏️ Executive Summary:</h2>
 With over 15 years of diverse professional experience spanning customer service, theatre, and film production, Kenny Nauta brings a wealth of skills to the evolving landscape of cybersecurity. Nauta pivoted towards this dynamic field a year ago, enticed by its technological intricacies and the promising trajectory of the industry. Originally nurturing aspirations of working in the film industry, his path led him to discover a new passion in the cybersecurity domain.<br><br>
