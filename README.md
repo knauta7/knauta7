@@ -14,7 +14,7 @@ Versatile professional with a successful background as a Field Technician, showc
 <li><a href="https://github.com/knauta7/security_audit">Security Audit</a></li>
 <li><a href="https://github.com/knauta7/incident_report_analysis">Incident Report Analysis</a></li>
 <li><a href="https://github.com/knauta7/vulnerability_assessment_report">Vulnerability Assessment Report</a></li>
-
+<li><a href="https://github.com/knauta7/file_permissions_in_linux">File Permissions in Linux</a></li>
 
 
 <h2>🌟 Certifications:</h2>
