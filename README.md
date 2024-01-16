@@ -22,7 +22,7 @@ Versatile professional with a successful background as a Field Technician, showc
 
 
 <h2>🌎 Check Out My Website:</h2>
-<li><a href="www.kennynauta.com">Official Website</a></li>
+<li><a href="https://www.kennynauta.com/">Official Website</a></li>
 
 
 <h2> 📲 Connect with me:</h2>
