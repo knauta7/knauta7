@@ -8,7 +8,7 @@ In the last year, Nauta immersed himself as a Field Technician at Amp'd Entertai
 Versatile professional with a successful background as a Field Technician, showcasing expertise in technical issue resolution, safety practices, and effective task management. Recently completed the Google Career Certificate in Cybersecurity, highlighting analytical and troubleshooting skills. Eager to transition into cybersecurity with a commitment to excellence, while remaining adaptable to explore diverse opportunities in a dynamic work environment.<br>
 
 <h2>📜 Resume:</h2>
-<li><a href="https://drive.google.com/file/d/1lHupRdlFT1me3etCeR-CD_O6HnKAOFig/view?usp=sharing">Kenny Nauta's 2024  Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1HmYJJa_3mVcJqLWwQCJWQd8aWG2uvZdP/view?usp=sharing">Kenny Nauta's 2024  Resume</a></li>
 
 <h2>⚔️ Cybersecurity Portfolio:</h2>
 <li><a href="https://github.com/knauta7/security_audit">Security Audit</a></li>
